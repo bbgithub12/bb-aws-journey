@@ -59,8 +59,10 @@ just to see how it works
 
 # print(random.randrange(1, 51))
 
-txt = " Hello World "
+# #Slicing
 
-x = txt[1:-1]
-print(x)
+# txt = " Hello World "
+
+# x = txt[1:-1]
+# print(x)
 
